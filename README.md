@@ -53,6 +53,13 @@ Em resumo: Python é uma linguagem poderosa, versátil e extremamente amigável,
 - Libraries
 - Frameworks
 
+## 2. Orientação a Objetos
+
 ### Code Styles
+
+- Conceitos
+- Hierarquia Multipla
+- Class Method vs Static Method
+- Decorators
 
 For Python code style guidelines, refer to [PEP 8 - Style Guide for Python Code](https://peps.python.org/pep-0008/).
